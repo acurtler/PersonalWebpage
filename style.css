@@ -1,0 +1,85 @@
+html {
+    font-size: 80%;
+    background-color:rgba(216, 218, 222, 0.849);
+}
+
+p{
+    font-size: 1.45rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 2.7rem;
+    font-family: 'Garamond', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h2, h3 {
+    font-size: 2.25rem;
+    font-family: Garamond, Arial, sans-serif;
+}
+
+.aboutme {
+    background-color: rgba(134, 152, 134, 0.348);
+    font-size: 1.35rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link {
+    color:#2caf23;
+}
+
+a:visited {
+    color: #2caf23;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.semiHeader {
+    font-size: 1.45rem;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.resumeSection {
+    font-size: 1.6rem;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(216, 218, 222, 0.849);
+}
+
+.content {
+    font-size: 1.35rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    padding-bottom: 1.75rem;
+    color:rgba(35, 37, 40, 0.849);
+}
+
+.boxContent {
+    border-top: 0.4rem solid #1a6714;
+    border-left: 0.4rem solid #1a6714;
+    border-right: 0.4rem solid #1a6714;
+    background-color: rgba(216, 218, 222, 0.849);
+}
+
+.emptySpace {
+    background-color: rgba(216, 218, 222, 0.849);
+}
+.date {
+    font-size: 1.45rem;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(216, 218, 222, 0.849);
+}
+
+.skills{
+    font-size: 1.45rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(216, 218, 222, 0.849);
+    padding-bottom: 1.25rem;
+    color:rgba(35, 37, 40, 0.849);
+}
